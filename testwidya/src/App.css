@@ -1,0 +1,188 @@
+
+body{
+   background-color: #f0f3f9;
+}
+
+.cardRegister{
+  background-color: white;
+  border-radius: 18px;
+  
+
+  height: 100%;
+  width: 820px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+.imgLupa{
+  margin-top: 120px;
+}
+
+.nama{
+  font-size: 18px;
+  font-family: "roboto";
+  margin-top: 6px;
+}
+
+.form{
+  margin-right: 65px;
+  margin-left: 65px;
+}
+
+.hr{
+  margin-top: -5px;
+}
+
+.qwe{
+  background-color: red;
+}
+
+.qwer{
+  background-color: green;
+}
+
+.error{
+  color: red;
+}
+
+.nam{
+  font-size: 13px;
+  font-family: "roboto";
+}
+
+.back{
+  margin-top: 50px;
+  font-size: 15px;
+  font-family: "roboto";
+
+}
+
+.bayar{
+  font-size: 12px;
+}
+
+.btnn{
+  background-color: #335777;
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.img{
+  margin-bottom: 20px;
+}
+
+.imgLogin{
+  margin-top: 50px;
+}
+
+.cardLogin{
+  height: 600px;
+  margin-top: 50px;
+  border-radius: 18px;
+}
+
+.cardLupa{
+  height: 600px;
+  width: 550px;
+  margin-top: 50px;
+  border-radius: 18px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.lupaBack{
+  margin-left: 50px;
+  font-size: 14px;
+  font-family: "roboto";
+}
+
+
+.background{
+  height: 597px;
+  width: 635px;
+  border-radius: 0 18px 18px 0;
+}
+
+.loginField{
+  margin-right: 15px;
+  margin-left: 40px;
+}
+
+.lupaField{
+  margin-top: 40px;
+  margin-bottom: 60px;
+  width: 380px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.pass{
+  font-size: 15px;
+  font-family: "roboto";
+  color: red;
+  margin-left: 40px;
+}
+
+.btn{
+  background-color: #335777;
+}
+
+.bahasaPilih{
+  color: black;
+}
+
+.bahasa{
+  margin-left: 140px;
+  background-color: #EAF6F4;
+  color: black;
+  cursor: pointer;
+  border-style: none;
+  margin-top: 47px;
+}
+
+
+.link{
+  margin-top: -10px;
+}
+
+.daftarPerusahaan{
+  font-size: 14px;
+  font-family: "roboto";
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
